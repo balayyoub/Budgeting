@@ -1,0 +1,8 @@
+// import React from 'react';
+// import renderer from 'react-test-renderer';
+// import BudgetOverviewScreen from '../App';
+
+// test('BudgetOverviewScreen matches snapshot', () => {
+//   const tree = renderer.create(<BudgetOverviewScreen />).toJSON();
+//   expect(tree).toMatchSnapshot();
+// });

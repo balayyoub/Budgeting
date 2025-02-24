@@ -82,6 +82,38 @@ You've successfully run and modified your React Native App. :partying_face:
 - If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
 - If you're curious to learn more about React Native, check out the [docs](https://reactnative.dev/docs/getting-started).
 
+# Features
+
+## Budget Overview Screen
+- Displays an overview of the user's budget.
+- Shows income, expenses, and balance.
+- Provides a visual representation of budget categories.
+
+## Add Transaction Screen
+- Allows users to add new transactions.
+- Users can specify the amount, category, and date of the transaction.
+- Supports both income and expense transactions.
+
+## Transactions Screen
+- Lists all transactions made by the user.
+- Users can filter transactions by date and category.
+- Provides options to edit or delete transactions.
+
+## Categories Management Screen
+- Allows users to manage budget categories.
+- Users can add, edit, or delete categories.
+- Supports custom icons and colors for categories.
+
+## Settings Screen
+- Provides various settings for the app.
+- Users can manage their account information.
+- Includes options for app customization and preferences.
+
+## Account Management Screen
+- Allows users to manage their account details.
+- Users can update their profile information.
+- Provides options for password management and security settings.
+
 # Troubleshooting
 
 If you're having issues getting the above steps to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.

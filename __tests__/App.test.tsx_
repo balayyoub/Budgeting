@@ -1,0 +1,30 @@
+// // /**
+// //  * @format
+// //  */
+
+// // import React from 'react';
+// // import ReactTestRenderer from 'react-test-renderer';
+// // import App from '../App';
+
+// // test('renders correctly', async () => {
+// //   await ReactTestRenderer.act(() => {
+// //     ReactTestRenderer.create(<App />);
+// //   });
+// // });
+
+// import * as React from 'react';
+// import { screen, render, fireEvent } from '@testing-library/react-native';
+// // import { NavigationContainer } from '@react-navigation/native';
+// import App from '../App';
+
+// test('shows profile screen when View Profile is pressed', () => {
+//   render(
+//     // <NavigationContainer>
+//       <App />
+//     // </NavigationContainer>
+//   );
+
+//   fireEvent.press(screen.getByText('View Profile'));
+
+//   expect(screen.getByText('My Profile')).toBeOnTheScreen();
+// });
